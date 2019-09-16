@@ -1,0 +1,2 @@
+1.在Tomcat的conf文件中找到server.xml文件打开找到port然后将其值修改即可
+2.Coyote 是Tomcat的connector组件的实现，主要完成了与网络通信相关的功能；catalina是tomcat服务器中的servlet容器名称，它会调用执行用户的Java代码。
